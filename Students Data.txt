@@ -1,0 +1,42 @@
+----------------------------------
+    STUDENT REPORT CARD  
+----------------------------------
+       Name: Krishna
+       Roll.NO: 302
+----------------------------------
+      Subject-Wise Marks: 
+----------------------------------
+       Subject Marks 1:90 
+       Subject Marks 2:98 
+       Subject Marks 3:97 
+       Subject Marks 4:99 
+       Subject Marks 5:89 
+
+----------------------------------
+       Total: 473
+       Average: 94.6
+       Grade: A+
+----------------------------------
+      Result: Pass
+----------------------------------
+----------------------------------
+    STUDENT REPORT CARD  
+----------------------------------
+       Name: Bhargavi
+       Roll.NO: 1
+----------------------------------
+      Subject-Wise Marks: 
+----------------------------------
+       Subject Marks 1:89 
+       Subject Marks 2:99 
+       Subject Marks 3:92 
+       Subject Marks 4:80 
+       Subject Marks 5:95 
+
+----------------------------------
+       Total: 455
+       Average: 91
+       Grade: 
+----------------------------------
+      Result: Pass
+----------------------------------
